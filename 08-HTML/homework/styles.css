@@ -1,0 +1,35 @@
+h1 {
+    color: cadetblue;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: aquamarine;
+  padding: 50px;
+  border: 5px solid black;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, 0%);
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+body {
+    height: 1100px;
+    background-image: url(https://www.filo.news/__export/1551220065574/sites/claro/chegusan/img/2019/02/26/699d7edc-222c-4edd-ae44-7850730de887.jpg_1902800913.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.divClass {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
