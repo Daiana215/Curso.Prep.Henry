@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+img {
+    width: 200px;
+    margin-right: 16px;
+}
+
+.image {
+    width: 960px;
+    margin: 0 auto;
+}
+
+
+
+.description, .program {
+    width: 960px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+p {
+    font-size: 30px;
+}
