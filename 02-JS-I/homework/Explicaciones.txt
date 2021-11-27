@@ -1,0 +1,12 @@
+*Variables: Una variable sirve para guardar valores que queramos usar en algún momento. Se le puede dar un nombre y un valor si así lo queremos.
+Se puede declarar estas variables de tres formas: var, let y const.
+
+*Strings: Las strings son cadenas de caracteres o símbolos (palabras/texto) y siempre se escriben con comillas.
+
+*Funciones (argumentos, 'return'): Las funcioones sirven para calcular o cambiar un conjunto de variables, hacer operaciones con ellas.
+-Los argumentos son las variables de la función y se les da un nombre a cada argumento.
+-Return es para indicar lo que queremos que nos devuelva de la función. Por ejemplo, el resultado de una suma.
+
+*Declaraciones ('if'): La declaración 'if' la utilizamos para verificar si algo es verdadero o falso.
+
+Valores booleanos ('true', 'false'): Estos valores los utilizamos para determinar si algo es verdadero (true) o falso (false), es uno o el otro.
