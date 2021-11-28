@@ -1,0 +1,14 @@
+* `for` : Es un bucle para evaluar condiciones hasta que esta sea falsa.
+Cuenta con tres contadores:
+-Inicial: inicia el bucle, se pueden declarar variables.
+-Condicional: valor que condiciona a la variable; se repetirá hasta que sea falsa.
+-Actualización: incrementa a la variable.
+
+* `&&`, `||`, `!` :
+-&& : AND, evalúa expresiones. Si ambas (o la cantidad que sea) son verdaderas, devolverá 'true'. 
+Si una o ambas son falsas, devolverá 'false'.
+
+-|| : Ó, determina si entre expresiones una o varias, son verdaderas por lo que devolverá 'true'.
+Si todas son falsas, devolverá 'false'.
+
+-! : NOT, para preguntar lo contrario a lo que está expresado.
