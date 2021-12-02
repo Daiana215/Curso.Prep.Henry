@@ -1,0 +1,13 @@
+* Objetos: Son contenedores de datos, los cuales poseen mucha información sobre una determinada cosa.
+
+* Propiedades: Asociaciones entre una clave y un valor. Se separan con ','. Las claves son únicas pero varias
+claves pueden tener el mismo valor.
+
+* Métodos: En los objetos, llamamos métodos a las funciones.
+
+* Bucle `for…in`: Se utiliza para acceder a los valores asociados a las claves del objeto. En este bucle, dentro de
+los paréntesis debemos declarar una variable (clave) seguido de la palabra in y el nombre del objeto. 
+
+* Notación de puntos vs notación de corchetes: Con la notación de puntos podemos llamar al nombre de un objeto (nombre
+del objeto seguido de un punto y la clave). En cambio con la notación de corchetes, llamamos a la clave y debe ser un
+número, un string o una variable que apunte a alguno de los anteriores.
