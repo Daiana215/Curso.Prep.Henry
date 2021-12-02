@@ -1,0 +1,2 @@
+* Arrays: Son listas de elementos ordenados o desordenados. Se escriben entre [] y dentro de ellos podemos ingresar datos como
+los que ya vimos antes. Por ejemplo: strings, números, booleanos, functions e incluso otros arrays.
