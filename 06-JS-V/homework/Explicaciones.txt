@@ -1,0 +1,5 @@
+* `prototype`: Mecanismo por el cual los objetos heredan características entre sí.
+
+
+* _Constructors_ (de Clases): Son funciones para definir una colección de objetos que poseen los mismos
+atributos y/o métodos.
